@@ -32,6 +32,10 @@ img {
   left: 1100px;
 }
 
+nav img {
+  width: 70px;
+}
+
 .planet-index {
   position: absolute;
   top: 100px;
